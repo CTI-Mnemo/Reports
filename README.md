@@ -5,3 +5,10 @@ www.mnemo.com
 
 # Ciberboletines
 December 2020 - [Threat Intelligence section - Summary for financial services 2020](https://github.com/CTI-Mnemo/Reports/blob/main/Ciberbolet%C3%ADn-December-2020/1620532317824.pdf)
+
+
+![alt text](https://github.com/CTI-Mnemo/Reports/blob/main/Images/image_51b237ef-8c82-4c68-a9b4-7c156f7fa69e20210513_101636.jpg "Activity Group")
+
+![alt text](https://github.com/CTI-Mnemo/Reports/blob/main/Images/image_d6cf6049-9183-4a0a-8d5c-a1baf85456b820210513_101639.jpg "Shared techniques heat map")
+
+![alt text](https://github.com/CTI-Mnemo/Reports/blob/main/Images/image_ea5e6efd-4bca-4316-bdb5-1dc9c9c4f66620210513_101640.jpg "Activity-Attack Graph")
