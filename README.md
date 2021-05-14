@@ -7,6 +7,7 @@ www.mnemo.com
 
 [Mekotio Report](https://github.com/CTI-Mnemo/Reports/blob/main/Mekotio_Report/CTI-MNEMO_Mekotio_Analysis.pdf)
 
+detections 13/05/2021 in VirusTotal
 ![alt text](https://github.com/CTI-Mnemo/Reports/blob/main/Images/CTI-MNEMO_MekotioDetections.JPG "VT Detections")
 
 ![alt text](https://github.com/CTI-Mnemo/Reports/blob/main/Images/CTI-MNEMO_MekotioJS.JPG "Mekotio JS Analysis")
